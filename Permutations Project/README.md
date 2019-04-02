@@ -1,4 +1,4 @@
-# CPlusPlus-Projects
+# Permutations-Project
 My first C++ project
 
 - Introduction:
