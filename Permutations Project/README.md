@@ -6,9 +6,9 @@ My first C++ project
 I finished my first semester with this project. It covers the whole material studied until then and it is based on
 the basics of permutations.
 
-- IDE:
+- C++ Language Standard:
 
-  Visual Studio 2017
+  C++ 14
 
 - How to run it:
 
