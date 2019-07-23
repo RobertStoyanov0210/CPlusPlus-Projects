@@ -1,1 +1,4 @@
-### Пример:  На външен сътрудник на фирма се заплащат хонорари за изпълнени задачи, които имат категория. Необходимо е да се съхранява историята на изплатените суми и категориите на задачите, така че да се изработват справки за: общо изплатена сума; средно възнаграждение за изпълнена задача; категория на задача, за която е платено най-много.
+### Example: A company's external associate is paid for fees for completed tasks that have a category. It is necessary to store the history of the amount of paid and the tasks categories in order to make inquiries for: 
+### - total sum; 
+### - average income for a completed task;
+### - the task category for which it has been paid most;
